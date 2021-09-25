@@ -9,12 +9,12 @@
 
 .tituloOnRoad{
     text-align: end;
-    text-justify: ;
+    
 }
 
 body, html {
     height: 100%;
     background-repeat: no-repeat;
-    background: url(../assets/Fotos/fondo/fondo3.jpeg)  center center fixed;
+    background: url(../assets/Fotos/fondo/fondo3.jpeg) fixed;
     
 }
