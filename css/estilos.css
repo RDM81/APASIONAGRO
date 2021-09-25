@@ -1,3 +1,8 @@
 .marginIzquierda{
     margin-left: 10px;
 }
+
+.parrafo_intro{
+    text-align: justify;
+    text-justify: inter-word;
+}
