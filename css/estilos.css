@@ -6,3 +6,15 @@
     text-align: justify;
     text-justify: inter-word;
 }
+
+.tituloOnRoad{
+    text-align: end;
+    text-justify: ;
+}
+
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(../assets/Fotos/fondo/fondo3.jpeg)  center center fixed;
+    
+}
